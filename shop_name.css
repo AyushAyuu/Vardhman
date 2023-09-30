@@ -1,0 +1,28 @@
+.shopname{
+    border: 2px solid blue;
+    margin-top: .6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-color: rgba(249, 249, 86, 0.841);
+
+}
+.shopname>.logo{
+    width: 4.5rem;
+    height: 4.5rem;
+    /* border: 2px solid green; */
+    border-radius:25px;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/017/208/926/small/luxury-letter-v-logo-v-logotype-for-elegant-and-stylish-fashion-symbol-vector.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sname{
+    border: 2px solid green;
+    height: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    color: red;
+
+}

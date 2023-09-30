@@ -1,0 +1,9 @@
+.bhagwan{
+    border: 2px solid red;
+    width: fit-content;
+    margin-left: 40%;
+    padding-top: 1rem;
+}
+.bhagwan>img{
+    height: 5rem;
+}
