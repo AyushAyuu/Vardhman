@@ -3,13 +3,15 @@ const HomePageMenu = [
     id: 1,
     title: "पासपोर्ट फोटो",
     link: "https://photogov.com/documents/in-passport-35x45mm-photo/",
-    image: "./src/assets/images/photo.png",
+    image:
+      "https://play-lh.googleusercontent.com/xDVKSsEK7IVn4ctNmgrY3pBOiFvrD4JybF-CUOmPnzyPLlAH-zOJuV-glcNzUemnEqw",
   },
   {
     id: 2,
     title: "समग्र परिवार आईडी",
     link: "https://samagra.gov.in/Public/Dashboard/SamagraProfile.aspx?fw=sf",
-    image: "./src/assets/images/samagra.png",
+    image:
+      "https://play-lh.googleusercontent.com/xDVKSsEK7IVn4ctNmgrY3pBOiFvrD4JybF-CUOmPnzyPLlAH-zOJuV-glcNzUemnEqw",
   },
   {
     id: 3,
