@@ -5,16 +5,17 @@ const Item = (props) => {
   return (
     <>
       <div className="card">
-        <div className="card-body mx-auto p-0 w-100">
-          <div className="px-2">
+        <div className="card-body  p-0 w-100">
+          <div className="text-align-center px-2 mx-auto w-100 h-75">
             <img
               src={props.image}
-              className="card-img-top mx-auto my-2"
+              className=" p-2 mx-auto d-block"
               alt="..."
+              width={130}
             />
           </div>
 
-          <div className="border-top p-2 bg-body-secondary text-info-emphasis">
+          <div className=" p-2 bg-body-secondary text-info-emphasis">
             <h6 className="card-title text-center fw-bold">{props.title}</h6>
           </div>
         </div>

@@ -3,7 +3,8 @@ const HomePageMenu = [
     id: 1,
     title: "पासपोर्ट फोटो",
     link: "https://photogov.com/documents/in-passport-35x45mm-photo/",
-    image: "",
+    image:
+      "https://png.pngtree.com/png-clipart/20220209/ourmid/pngtree-passport-photo-man-to-register-marriage-illustration-png-image_4382891.png",
   },
   {
     id: 2,
@@ -38,29 +39,29 @@ const HomePageMenu = [
     title: "आयुष्मान कार्ड",
     link: "https://beneficiary.nha.gov.in/",
     image:
-      "https://play.google.com/store/apps/details?id=com.beneficiaryapp&hl=en_US",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PbjaHVR7QqwZABboKqSOVNb79u_WjtOl5nglbRmpxugTXOAGLpKs29H9JzymliMlA5w&usqp=CAU",
   },
   {
     id: 7,
-    title: "आय प्रमाण-पत्र",
+    title: "प्रमाण-पत्र",
     link: "https://mpedistrict.gov.in/MPL/index.aspx",
     image:
       "https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2019/06/2019062877.jpg",
   },
-  {
-    id: 8,
-    title: "मूल्यवासी प्रमाण-पत्र",
-    link: "https://mpedistrict.gov.in/MPL/index.aspx",
-    image:
-      ".https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2019/06/2019062877.jpg",
-  },
-  {
-    id: 9,
-    title: "जाति प्रमाण-पत्र",
-    link: "https://mpedistrict.gov.in/MPL/index.aspx",
-    image:
-      "https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2019/06/2019062877.jpg",
-  },
+  // {
+  //   id: 8,
+  //   title: "मूल्यवासी प्रमाण-पत्र",
+  //   link: "https://mpedistrict.gov.in/MPL/index.aspx",
+  //   image:
+  //     ".https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2019/06/2019062877.jpg",
+  // },
+  // {
+  //   id: 9,
+  //   title: "जाति प्रमाण-पत्र",
+  //   link: "https://mpedistrict.gov.in/MPL/index.aspx",
+  //   image:
+  //     "https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2019/06/2019062877.jpg",
+  // },
   {
     id: 10,
     title: "खसरा-खतौनी-नक्शा ",
@@ -83,7 +84,7 @@ const HomePageMenu = [
   },
   {
     id: 13,
-    title: "एमपी बोर्ड कक्षा 5 और 8 रिजल्ट",
+    title: "MP बोर्ड कक्षा 5-8 रिजल्ट",
     link: "https://www.rskmp.in/BoardExam/Result24/StudentResult.aspx",
     image:
       "https://upload.wikimedia.org/wikipedia/en/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
@@ -108,22 +109,22 @@ const HomePageMenu = [
     title: "CBSC बोर्ड कक्षा 10 रिजल्ट",
     link: "https://cbseresults.nic.in/2024/CBSE10th/CBSE10thLogin?resultType=cbse10",
     image:
-      ".https://e7.pngegg.com/pngimages/612/865/png-clipart-central-board-of-secondary-education-ugc-net-cbse-exam-class-10-neet-jee-main-school-label-logo-thumbnail.png",
+      "https://logowik.com/content/uploads/images/cbse-central-board-of-secondary-education-colored7663.jpg",
   },
   {
     id: 17,
     title: "CBSC बोर्ड कक्षा 12 रिजल्ट",
     link: "https://cbseresults.nic.in/2024/CBSE12th/CBSE12thLogin?resultType=cbse12",
     image:
-      ".https://e7.pngegg.com/pngimages/612/865/png-clipart-central-board-of-secondary-education-ugc-net-cbse-exam-class-10-neet-jee-main-school-label-logo-thumbnail.png",
+      "https://logowik.com/content/uploads/images/cbse-central-board-of-secondary-education-colored7663.jpg",
   },
-  {
-    id: 18,
-    title: "RGPV रिजल्ट",
-    link: "http://result.rgpv.ac.in/Result/ProgramSelect.aspx",
-    image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRajiv_Gandhi_Proudyogiki_Vishwavidyalaya&psig=AOvVaw04sLu1wiZSYQ0DMDDRMTXn&ust=1720386242526000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICM0qiok4cDFQAAAAAdAAAAABAE",
-  },
+  // {
+  //   id: 18,
+  //   title: "RGPV रिजल्ट",
+  //   link: "http://result.rgpv.ac.in/Result/ProgramSelect.aspx",
+  //   image:
+  //     "https://iconape.com/wp-content/png_logo_vector/rajiv-gandhi-proudyogiki-vishwavidyalaya-logo.png",
+  // },
   {
     id: 19,
     title: "सरकारी एडमिट कार्ड",
