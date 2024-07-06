@@ -87,7 +87,7 @@ const HomePageMenu = [
     id: 15,
     title: "MP बोर्ड कक्षा 12 रिजल्ट",
     link: "https://mpresults.nic.in/mpbse/HSSC12_24/12th_2024-XII.htm",
-    image: "./src/assets/images/mpboard.png",
+    image: "/assets/images/mpboard.png",
   },
 
   {
