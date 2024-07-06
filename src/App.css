@@ -3,9 +3,9 @@ nav img{
   width: 60px;
 }
 nav h4{
-  color: rgb(254 221 123);
-  font-size: 30px;
-  text-shadow: 0px 1px 2px white;
+  /* color: rgb(254 221 123); */
+  font-size: 40px;
+  /* text-shadow: 0px 1px 2px white; */
 }
 /* .card{
   height: fit-content !important;

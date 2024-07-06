@@ -10,7 +10,7 @@ const Header = () => {
               src="https://static.vecteezy.com/system/resources/previews/019/514/640/original/letter-v-logo-design-for-business-and-company-identity-with-luxury-concept-free-vector.jpg"
               alt=""
             /> */}
-            <h4 className="my-auto">वर्धमान फोटोकॉपी</h4>
+            <h4 className=" text-warning my-auto">वर्धमान फोटोकॉपी</h4>
           </div>
         </div>
       </nav>
