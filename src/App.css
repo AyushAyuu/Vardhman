@@ -1,0 +1,64 @@
+/* header */
+nav img{
+  width: 60px;
+}
+nav h4{
+  color: rgb(254 221 123);
+  font-size: 30px;
+  text-shadow: 0px 0px 2px white;
+}
+/* .card{
+  height: fit-content !important;
+} */
+.menuList {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); 
+  gap: 10px;
+}
+.card {
+  transition: all 0.2s ease-in-out; /* add transition effect */
+}
+
+.card:hover {
+  transform: scale(0.95);
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2); /* add box shadow */
+}
+
+.footer{
+  color: rgb(254 221 123);
+}
+
+
+/* For small screens (e.g. mobile) */
+@media only screen and (max-width: 300px) {
+  .menuList {
+    grid-template-columns: repeat(1, 1fr); 
+  }
+  nav h4{
+    font-size: 20px;
+  }
+}
+
+/* For medium screens */
+@media (min-width: 301px) and (max-width: 599px) {
+  .menuList {
+    grid-template-columns: repeat(2, 1fr); 
+  }
+  nav div{
+    width: 100%;
+  }
+}
+
+/* For larger screens */
+@media (min-width: 600px) and (max-width: 1199px) {
+  .menuList {
+    grid-template-columns: repeat(3, 1fr); 
+  }
+}
+
+/* For large screens (e.g. desktop) */
+@media only screen and (min-width: 1200px) {
+  .menuList {
+    grid-template-columns: repeat(4, 1fr); 
+  }
+}
