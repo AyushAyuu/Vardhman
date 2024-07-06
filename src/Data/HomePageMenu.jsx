@@ -84,21 +84,21 @@ const HomePageMenu = [
   },
   {
     id: 13,
-    title: "MP बोर्ड कक्षा 5-8 रिजल्ट",
+    title: "MP बोर्ड 5-8 रिजल्ट",
     link: "https://www.rskmp.in/BoardExam/Result24/StudentResult.aspx",
     image:
       "https://upload.wikimedia.org/wikipedia/en/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
   },
   {
     id: 14,
-    title: "MP बोर्ड कक्षा 10 रिजल्ट",
+    title: "MP बोर्ड 10 रिजल्ट",
     link: "https://mpresults.nic.in/mpbse/Xhsc-24/10th_class_24.htm",
     image:
       "https://upload.wikimedia.org/wikipedia/en/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
   },
   {
     id: 15,
-    title: "MP बोर्ड कक्षा 12 रिजल्ट",
+    title: "MP बोर्ड 12 रिजल्ट",
     link: "https://mpresults.nic.in/mpbse/HSSC12_24/12th_2024-XII.htm",
     image:
       "https://upload.wikimedia.org/wikipedia/en/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
@@ -106,14 +106,14 @@ const HomePageMenu = [
 
   {
     id: 16,
-    title: "CBSC बोर्ड कक्षा 10 रिजल्ट",
+    title: "CBSC 10 रिजल्ट",
     link: "https://cbseresults.nic.in/2024/CBSE10th/CBSE10thLogin?resultType=cbse10",
     image:
       "https://logowik.com/content/uploads/images/cbse-central-board-of-secondary-education-colored7663.jpg",
   },
   {
     id: 17,
-    title: "CBSC बोर्ड कक्षा 12 रिजल्ट",
+    title: "CBSC 12 रिजल्ट",
     link: "https://cbseresults.nic.in/2024/CBSE12th/CBSE12thLogin?resultType=cbse12",
     image:
       "https://logowik.com/content/uploads/images/cbse-central-board-of-secondary-education-colored7663.jpg",
@@ -127,7 +127,7 @@ const HomePageMenu = [
   // },
   {
     id: 19,
-    title: "सरकारी एडमिट कार्ड",
+    title: "एडमिट कार्ड",
     link: "https://www.sarkariresult.com/admitcard/",
     image:
       "https://play-lh.googleusercontent.com/vhu946egoixCAkwanZsVe0gYHcJ4Z4lTS-1rPA-mGnlZKax3X_Ncru4pRYwUGMvNuQU",

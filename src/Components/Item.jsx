@@ -6,7 +6,7 @@ const Item = (props) => {
     <>
       <div className="card">
         <div className="card-body  p-0 w-100">
-          <div className="text-align-center px-2 mx-auto w-100 h-75">
+          <div className="text-align-center px-2 mx-auto w-100 c-img">
             <img
               src={props.image}
               className=" p-2 mx-auto d-block"

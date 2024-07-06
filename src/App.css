@@ -51,6 +51,9 @@ nav h4{
   .card{
     height: 170px !important;
   }
+  .c-img{
+    height: 72% !important;
+  }
 }
 
 /* For larger screens */
