@@ -22,7 +22,7 @@ const HomePageMenu = [
     title: "आधार कार्ड",
     link: "https://myaadhaar.uidai.gov.in/genricDownloadAadhaar/en",
     image:
-      "https://github.com/AyushAyuu/Vardhman/blob/main/src/assets/images/aadhar.png",
+      "https://images.hindustantimes.com/tech/img/2022/12/19/960x540/aadhaar-card-7579588_960_720_1671442149571_1671442199832_1671442199832.webp",
   },
   {
     id: 5,
