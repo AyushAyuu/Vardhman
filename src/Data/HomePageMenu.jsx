@@ -24,7 +24,7 @@ const HomePageMenu = [
   {
     id: 4,
     title: "राशन पात्रता पर्ची",
-    link: "https://rationmitra.nic.in/Dasboard/Report/Get_PP_Auth.aspx",
+    link: "https://rationmitra.nic.in/",
     image:
       "https://img.utdstc.com/icon/527/87b/52787b0db85a59e4095ba99fbcd772766fed492481aa8ebf568c401aa501d372:200",
   },
